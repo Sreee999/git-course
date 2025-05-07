@@ -1,2 +1,4 @@
 Get the User data ....
 Process the data to the client
+
+ Added new feature Avatar for user
